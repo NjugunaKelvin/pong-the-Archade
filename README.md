@@ -129,6 +129,3 @@ This project is perfect for:
 ## 🎉 Credits  
 
 Created with love ❤️ to bring back the charm of classic Pong while helping you learn Python. Enjoy the game and happy coding! 🚀  
-
-
-This version is more engaging, uses emojis ef
